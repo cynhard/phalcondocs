@@ -1,4 +1,4 @@
-Apache Installation Notes
+Apache 服务器安装注意：
 =========================
 Apache_ is a popular and well known web server available on many platforms.
 
